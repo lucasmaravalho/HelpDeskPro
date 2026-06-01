@@ -21,11 +21,6 @@ O projeto foi desenvolvido seguindo a arquitetura MVC (Model-View-Controller) e 
 * **Rastreabilidade:** Histórico completo de alterações por chamado.
 * **Relatórios:** Geração de relatórios operacionais para auxílio na tomada de decisão.
 
-## 👥 Equipe de Desenvolvimento
-* Nelma Cristina Ribeiro Guerra
-* João Paulo Sales
-* Lucas Maravalho
-
 ## 🎓 Instituição
 ETB - Escola Técnica de Brasília
 Projeto Final - Curso Técnico em Informática (2026).
